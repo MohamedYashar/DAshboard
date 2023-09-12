@@ -1,3 +1,5 @@
+DEPLOYMENT LINK: https://6500b448b4b2312752250019--astonishing-mooncake-2114ee.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
